@@ -32,7 +32,7 @@ A collection of Python practice projects covering core modules, OOP concepts, an
 ## **🚀 Getting Started**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-projects-practice.git
+   git clone https://github.com/Alexashok99/Python-Projects-Practice.git
    ```
 2. Navigate to specific project:
    ```bash
